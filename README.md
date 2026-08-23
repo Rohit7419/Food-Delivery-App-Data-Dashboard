@@ -117,5 +117,5 @@ The dashboard helps identify:
 
 ### Dashboard Preview
 
-![Food Delivery Data Analysis Dashboard]()
+![Food Delivery Data Analysis Dashboard](https://github.com/Rohit7419/Food-Delivery-App-Data-Dashboard/blob/main/Delivery%20app%20data%20dashboard.png)
 
